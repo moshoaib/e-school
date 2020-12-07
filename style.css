@@ -188,13 +188,14 @@ body{
     color: white;
 
 }
-.motto-section{
-    margin-left: 30%;
-}
+
 .footer-body{
-    padding-top: 40px;
+    padding: 40px 100px 0 150px;
 }
 footer{
     text-align: center;
-    margin-top: 150px;
+    margin-top: 125px;
+}
+.course-section, .terms-section, .usefullink-section{
+    list-style-type: none;
 }
