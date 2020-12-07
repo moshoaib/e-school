@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 .bg{
@@ -182,7 +182,7 @@ body{
 .footer{
     margin-top: 150px;
     width: 100%;
-    height: 369px;
+    height: 100%;
     background-color: #282531;
     background-size: cover;
     color: white;
